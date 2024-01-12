@@ -1,0 +1,1 @@
+cmd_/home/dplastico/junta-cabros/kernel_1/dplamod.mod := printf '%s\n'   dplamod.o | awk '!x[$$0]++ { print("/home/dplastico/junta-cabros/kernel_1/"$$0) }' > /home/dplastico/junta-cabros/kernel_1/dplamod.mod

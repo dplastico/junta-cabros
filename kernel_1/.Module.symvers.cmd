@@ -1,0 +1,1 @@
+cmd_/home/dplastico/junta-cabros/kernel_1/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/dplastico/junta-cabros/kernel_1/Module.symvers -T /home/dplastico/junta-cabros/kernel_1/modules.order -i Module.symvers -e 
